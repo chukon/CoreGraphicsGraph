@@ -2,6 +2,12 @@ CoreGraphics Links
 
 [link 1](http://vormlab.com/coregraphics-tutorial-swift/)
 
+[SwiftChart](https://github.com/gpbl/SwiftChart)
+
+[Apple](https://developer.apple.com/reference/coregraphics)
+
+[text](http://www.techotopia.com/index.php/An_iOS_8_Swift_Graphics_Tutorial_using_Core_Graphics_and_Core_Image)
+
 CoreGraphicsGraph
 =================
 ![Example](http://cl.ly/image/3M3y0A3w2C1F/d)
